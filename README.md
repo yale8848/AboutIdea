@@ -16,4 +16,5 @@
 
 ### http
 
-- [http缓存](http://imweb.io/topic/5795dcb6fb312541492eda8c)
+- [HTTP缓存控制小结](http://imweb.io/topic/5795dcb6fb312541492eda8c)
+- [Retrofit和Okhttp实现网络缓存](http://www.jianshu.com/p/9c3b4ea108a7#)
