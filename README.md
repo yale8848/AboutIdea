@@ -11,6 +11,11 @@
 - [平凡而又神奇的贝叶斯方法](http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/)
 
 
+## Android
+
+- [Android 利用 APT 技术在编译期生成代码](http://brucezz.itscoder.com/use-apt-in-android#)
+
+
 ## 知识
 
 
