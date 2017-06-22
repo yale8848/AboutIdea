@@ -18,6 +18,23 @@
 ## Android Video
 
 - [CameraFragment](https://github.com/florent37/CameraFragment)
+- [LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)
+- [ExoPlayer](https://github.com/google/ExoPlayer)
+- [DragVideo](https://github.com/hejunlin2013/DragVideo)
+- [WxRecoderVideo](https://github.com/maimingliang/WxRecoderVideo)
+- [VideoRecorder](https://github.com/qdrzwd/VideoRecorder)
+- [RecordVideoDemo](https://github.com/szitguy/RecordVideoDemo)
+- [TouchToRecord](https://github.com/sourab-sharma/TouchToRecord)
+- [YaPlayer](https://github.com/ymcao/YaPlayer)
+- [MVideo](https://github.com/miaoyongjun/MVideo)
+- [VideoRecorderAndCompressor](https://github.com/chenzhihui28/VideoRecorderAndCompressor)
+- [sandriosCamera](https://github.com/sandrios/sandriosCamera)
+- [TigerVideo](https://github.com/huyongli/TigerVideo)
+- [WelcomeVideoPager](https://github.com/linglongxin24/WelcomeVideoPager)
+- [VideoRecord](https://github.com/CarGuo/VideoRecord)
+
+- [VidEffects](https://github.com/krazykira/VidEffects)
+- [Pano360](https://github.com/Martin20150405/Pano360)
 
 ## Js
 
