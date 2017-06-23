@@ -20,6 +20,8 @@
 
 ## Android Video
 
+- [small-video-record](https://github.com/mabeijianxi/small-video-record)
+
 - [CameraFragment](https://github.com/florent37/CameraFragment)
 - [LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)
 - [ExoPlayer](https://github.com/google/ExoPlayer)
@@ -35,7 +37,6 @@
 - [TigerVideo](https://github.com/huyongli/TigerVideo)
 - [WelcomeVideoPager](https://github.com/linglongxin24/WelcomeVideoPager)
 - [VideoRecord](https://github.com/CarGuo/VideoRecord)
-
 - [VidEffects](https://github.com/krazykira/VidEffects)
 - [Pano360](https://github.com/Martin20150405/Pano360)
 
