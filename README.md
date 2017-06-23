@@ -21,6 +21,7 @@
 ## Android Video
 
 - [small-video-record](https://github.com/mabeijianxi/small-video-record)
+- [WeiXinRecordedDemo](https://github.com/Zhaoss/WeiXinRecordedDemo)
 
 - [CameraFragment](https://github.com/florent37/CameraFragment)
 - [LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)
