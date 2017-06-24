@@ -51,3 +51,6 @@
 
 - [HTTP缓存控制小结](http://imweb.io/topic/5795dcb6fb312541492eda8c)
 - [Retrofit和Okhttp实现网络缓存](http://www.jianshu.com/p/9c3b4ea108a7#)
+
+## 框架
+- [前后分离接口规范](http://www.jianshu.com/p/c81008b68350?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
