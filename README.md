@@ -8,6 +8,7 @@
 ## 算法
 
 - [平凡而又神奇的贝叶斯方法](http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/)
+- [ 字符串匹配(BF,BM,Sunday,KMP算法解析)](http://blog.csdn.net/l953972252/article/details/51331001)
 
 
 ## Blog
