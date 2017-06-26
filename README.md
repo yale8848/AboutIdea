@@ -24,6 +24,7 @@
 - [awesome-android](https://github.com/snowdream/awesome-android)
 - [Android 优秀文章收集整理集合](http://blog.csdn.net/qq_35224673/article/details/52216987)
 - [Android Binder 完全解析（一）概述](http://www.jianshu.com/p/c11333e77910)
+- [Android热补丁动态修复技术（三）—— 使用Javassist注入字节码，完成热补丁框架雏形（可使用）](http://www.2cto.com/kf/201604/499386.html)
 
 ## Android Video
 
