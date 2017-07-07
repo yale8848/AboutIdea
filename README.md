@@ -69,4 +69,4 @@
 ## Java
 - [Java 单例真的写对了么?](https://race604.com/java-double-checked-singleton/)
 - [深入理解Java内存模型（一）——基础](http://www.infoq.com/cn/articles/java-memory-model-1)
-- [深入理解Java类加载机制](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&amp;mid=2247483903&amp;idx=1&amp;sn=c20d3172052bd7db9a1ad6a95f112bc9&amp;chksm=96cda0b2a1ba29a4cc9912cb1bf8a955f97ee45a7b8db48e384f1694ddbabbd4d5e7fa90f880&amp;scene=21#wechat_redirect)
+- [深入理解Java类加载机制](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247483903&idx=1&sn=c20d3172052bd7db9a1ad6a95f112bc9)
