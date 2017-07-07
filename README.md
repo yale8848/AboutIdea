@@ -65,3 +65,7 @@
 ## office
 - [ E-iceblue的Office控件试用](http://blog.csdn.net/congduan/article/details/45071697)
 - [C# 给word文档添加水印](http://www.cnblogs.com/Yesi/p/5085903.html)
+
+## Java
+- [Java 单例真的写对了么?](https://race604.com/java-double-checked-singleton/)
+- [深入理解Java内存模型（一）——基础](http://www.infoq.com/cn/articles/java-memory-model-1)
