@@ -26,28 +26,6 @@
 - [Android Binder 完全解析（一）概述](http://www.jianshu.com/p/c11333e77910)
 - [Android热补丁动态修复技术（三）—— 使用Javassist注入字节码，完成热补丁框架雏形（可使用）](http://www.2cto.com/kf/201604/499386.html)
 
-## Android Video
-
-- [small-video-record](https://github.com/mabeijianxi/small-video-record)
-- [WeiXinRecordedDemo](https://github.com/Zhaoss/WeiXinRecordedDemo)
-
-- [CameraFragment](https://github.com/florent37/CameraFragment)
-- [LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)
-- [ExoPlayer](https://github.com/google/ExoPlayer)
-- [DragVideo](https://github.com/hejunlin2013/DragVideo)
-- [WxRecoderVideo](https://github.com/maimingliang/WxRecoderVideo)
-- [VideoRecorder](https://github.com/qdrzwd/VideoRecorder)
-- [RecordVideoDemo](https://github.com/szitguy/RecordVideoDemo)
-- [TouchToRecord](https://github.com/sourab-sharma/TouchToRecord)
-- [YaPlayer](https://github.com/ymcao/YaPlayer)
-- [MVideo](https://github.com/miaoyongjun/MVideo)
-- [VideoRecorderAndCompressor](https://github.com/chenzhihui28/VideoRecorderAndCompressor)
-- [sandriosCamera](https://github.com/sandrios/sandriosCamera)
-- [TigerVideo](https://github.com/huyongli/TigerVideo)
-- [WelcomeVideoPager](https://github.com/linglongxin24/WelcomeVideoPager)
-- [VideoRecord](https://github.com/CarGuo/VideoRecord)
-- [VidEffects](https://github.com/krazykira/VidEffects)
-- [Pano360](https://github.com/Martin20150405/Pano360)
 
 ## Js
 
@@ -70,3 +48,28 @@
 - [Java 单例真的写对了么?](https://race604.com/java-double-checked-singleton/)
 - [深入理解Java内存模型（一）——基础](http://www.infoq.com/cn/articles/java-memory-model-1)
 - [深入理解Java类加载机制](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247483903&idx=1&sn=c20d3172052bd7db9a1ad6a95f112bc9)
+
+
+
+## Android Video
+
+- [small-video-record](https://github.com/mabeijianxi/small-video-record)
+- [WeiXinRecordedDemo](https://github.com/Zhaoss/WeiXinRecordedDemo)
+
+- [CameraFragment](https://github.com/florent37/CameraFragment)
+- [LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)
+- [ExoPlayer](https://github.com/google/ExoPlayer)
+- [DragVideo](https://github.com/hejunlin2013/DragVideo)
+- [WxRecoderVideo](https://github.com/maimingliang/WxRecoderVideo)
+- [VideoRecorder](https://github.com/qdrzwd/VideoRecorder)
+- [RecordVideoDemo](https://github.com/szitguy/RecordVideoDemo)
+- [TouchToRecord](https://github.com/sourab-sharma/TouchToRecord)
+- [YaPlayer](https://github.com/ymcao/YaPlayer)
+- [MVideo](https://github.com/miaoyongjun/MVideo)
+- [VideoRecorderAndCompressor](https://github.com/chenzhihui28/VideoRecorderAndCompressor)
+- [sandriosCamera](https://github.com/sandrios/sandriosCamera)
+- [TigerVideo](https://github.com/huyongli/TigerVideo)
+- [WelcomeVideoPager](https://github.com/linglongxin24/WelcomeVideoPager)
+- [VideoRecord](https://github.com/CarGuo/VideoRecord)
+- [VidEffects](https://github.com/krazykira/VidEffects)
+- [Pano360](https://github.com/Martin20150405/Pano360)
