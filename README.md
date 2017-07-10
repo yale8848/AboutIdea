@@ -48,7 +48,7 @@
 - [Java 单例真的写对了么?](https://race604.com/java-double-checked-singleton/)
 - [深入理解Java内存模型（一）——基础](http://www.infoq.com/cn/articles/java-memory-model-1)
 - [深入理解Java类加载机制](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247483903&idx=1&sn=c20d3172052bd7db9a1ad6a95f112bc9)
-
+- [死磕Java系列博客](http://cmsblogs.com/?p=2122)
 
 
 ## Android Video
