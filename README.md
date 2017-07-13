@@ -49,6 +49,7 @@
 - [深入理解Java内存模型（一）——基础](http://www.infoq.com/cn/articles/java-memory-model-1)
 - [深入理解Java类加载机制](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247483903&idx=1&sn=c20d3172052bd7db9a1ad6a95f112bc9)
 - [死磕Java系列博客](http://cmsblogs.com/?p=2122)
+- [Java 多线程核心技术之 ConcurrentHashMap 的演进](http://www.jasongj.com/java/concurrenthashmap/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 
 ## Android Video
