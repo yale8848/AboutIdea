@@ -30,6 +30,7 @@
 ## Js
 
 - [2017 年 6 月：15 个有趣的 JS 和 CSS 库](https://zhuanlan.zhihu.com/p/27447083?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [给 Web 开发人员推荐的开源图形库 —— 动画](https://my.oschina.net/editorial-story/blog/1359292)
 
 
 ## Http
