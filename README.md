@@ -11,6 +11,7 @@
 - [ 字符串匹配(BF,BM,Sunday,KMP算法解析)](http://blog.csdn.net/l953972252/article/details/51331001)
 - [隐马尔可夫模型的原理及实现 HMM(一)](http://bluewhale.cc/2016-06-02/hidden-markov-model-1.html)
 - [机器学习：HMM隐马尔可夫模型用于中文分词](http://blog.csdn.net/ztf312/article/details/50982529)
+- [如何用简单易懂的例子解释隐马尔可夫模型？](https://www.zhihu.com/question/20962240)
 
 ## AI
 - [揭秘 TensorFlow：Google 开源到底开的是什么？](http://tech.sina.com.cn/it/2015-11-12/doc-ifxksqiv8295057.shtml)
