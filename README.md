@@ -22,6 +22,8 @@
 
 - [袁辉辉](http://gityuan.com/)
 
+## 转码
+- [Latex格式html文件转换pdf和docx文档](https://segmentfault.com/a/1190000008656751)
 
 ## Android
 
