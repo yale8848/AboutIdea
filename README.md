@@ -17,6 +17,7 @@
 - [HMM——维特比算法 (Viterbi algorithm)](http://blog.csdn.net/zb1165048017/article/details/48578183)
 ## AI
 - [揭秘 TensorFlow：Google 开源到底开的是什么？](http://tech.sina.com.cn/it/2015-11-12/doc-ifxksqiv8295057.shtml)
+- [TensorFlow来做MNIST数字图像识别的教程](https://www.oreilly.com.cn/ideas/?p=838)
 
 ## Blog
 
