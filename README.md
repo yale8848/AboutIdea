@@ -19,6 +19,7 @@
 - [揭秘 TensorFlow：Google 开源到底开的是什么？](http://tech.sina.com.cn/it/2015-11-12/doc-ifxksqiv8295057.shtml)
 - [TensorFlow来做MNIST数字图像识别的教程](https://www.oreilly.com.cn/ideas/?p=838)
 - [机器学习的一些原理](http://dataunion.org/27573.html)
+- [使用Python+Tensorflow的CNN技术快速识别验证码](http://www.jianshu.com/p/26ff7b9075a1)
 
 ## Blog
 
