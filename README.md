@@ -20,6 +20,7 @@
 - [TensorFlow来做MNIST数字图像识别的教程](https://www.oreilly.com.cn/ideas/?p=838)
 - [机器学习的一些原理](http://dataunion.org/27573.html)
 - [使用Python+Tensorflow的CNN技术快速识别验证码](http://www.jianshu.com/p/26ff7b9075a1)
+- [深度学习实验日志记录册](https://zhuanlan.zhihu.com/russellcloud)
 
 ## Blog
 
