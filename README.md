@@ -21,6 +21,7 @@
 - [机器学习的一些原理](http://dataunion.org/27573.html)
 - [使用Python+Tensorflow的CNN技术快速识别验证码](http://www.jianshu.com/p/26ff7b9075a1)
 - [深度学习实验日志记录册](https://zhuanlan.zhihu.com/russellcloud)
+- [100行python代码实现机器学习自动分类](http://www.shareditor.com/blogshow/?blogId=51)
 
 ## Blog
 
