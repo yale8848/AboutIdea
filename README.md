@@ -23,6 +23,7 @@
 - [深度学习实验日志记录册](https://zhuanlan.zhihu.com/russellcloud)
 - [100行python代码实现机器学习自动分类](http://www.shareditor.com/blogshow/?blogId=51)
 - [文本分类常用算法比较](http://blog.csdn.net/renyp8799/article/details/44856205)
+- [Deep Learning in NLP （一）词向量和语言模型](http://licstar.net/archives/328)
 
 ## Blog
 
