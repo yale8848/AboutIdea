@@ -26,6 +26,7 @@
 - [Deep Learning in NLP （一）词向量和语言模型](http://licstar.net/archives/328)
 - [使用fastText对文本进行分类--小插曲](http://blog.csdn.net/lxg0807/article/details/52960072)
 - [ 自己动手写word2vec (一):主要概念和流程](http://blog.csdn.net/u014595019/article/details/51884529)
+- [教你明白啥是朴素贝叶斯分类器](https://zhuanlan.zhihu.com/p/25493221)
 
 ## Blog
 
