@@ -37,6 +37,8 @@
 
 ## Android
 
+- [移动端IM实践：实现Android版微信的智能心跳机制](http://www.52im.net/thread-120-1-1.html)
+
 - [Android 利用 APT 技术在编译期生成代码](http://brucezz.itscoder.com/use-apt-in-android#)
 - [巧用Android多进程，微信，微博等主流App都在用](http://cjw-blog.net/2017/02/26/AIDL/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [ Android 开发:由模块化到组件化(一)](http://blog.csdn.net/dd864140130/article/details/53645290?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
